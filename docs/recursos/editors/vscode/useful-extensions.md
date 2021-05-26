@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Extensões Úteis
 
-```txt title="useful-extensions.txt"
+```
 Anyview
 auto-close-tag
 auto-rename-tag

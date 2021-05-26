@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tipos de Dados Básicos
 
-```python title="python-datatypes.py"
+```python
 Integer
 a = 5
 
